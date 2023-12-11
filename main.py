@@ -1,0 +1,3 @@
+import negyedik
+
+negyedik.negyedik()
